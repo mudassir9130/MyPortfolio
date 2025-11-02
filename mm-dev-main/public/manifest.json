@@ -1,0 +1,17 @@
+
+{
+  "name": "Mahummad Mudassir Portfolio",
+  "short_name": "MM Portfolio",
+  "description": "Portfolio website of Mahhumad Mudassir, a software development student specializing in full-stack development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2662d9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
